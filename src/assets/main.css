@@ -1,0 +1,39 @@
+@import './base.css';
+*{
+  margin: 0;
+  padding: 0;
+}
+#app {
+  display: flex;
+  height: 100%;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+}
+p{
+  margin: 0;
+  line-height: 1;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+   
+  }
+
+  #app {
+  
+  }
+}
+.pinfen-special-text{
+  color: rgb(216, 53, 12);
+}

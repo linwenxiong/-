@@ -1,0 +1,1 @@
+export const IMGHOST = 'https://www.hzxqsy.com:8989/imgs/'

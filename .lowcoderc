@@ -1,0 +1,24 @@
+{
+  "yapi": {
+    "domain": "312",
+    "projects": [
+      {
+        "domain": "123213",
+        "name": "123123",
+        "token": "31232"
+      },
+      {
+        "domain": ""
+      }
+    ]
+  },
+  "mock": {
+    "mockNumber": "Random.natural(1000,1000)",
+    "mockBoolean": "false",
+    "mockString": "Random.cword(5, 7)",
+    "mockKeyWordEqual": [],
+    "mockKeyWordLike": []
+  },
+  "commonlyUsedBlock": [],
+  "syncFolder": ""
+}
